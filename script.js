@@ -8,3 +8,4 @@ const boton = document.querySelector('button[type="submit"]');
 boton.textContent = 'Enviar';
 
 boton.classList.add('mi-clase-personalizada');
+

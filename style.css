@@ -5,6 +5,7 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
+    
 }
 
 .container {
@@ -24,6 +25,12 @@ header {
 
 header .logo {
     max-width: 150px;
+    width: auto;
+    height: auto;
+}
+
+header .ilustracion {
+    max-width: 300px;
     width: auto;
     height: auto;
 }
